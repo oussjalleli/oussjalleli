@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oussjalleli
 - 👀 I’m interested in IT and looking for internship or part time job
-- 🌱 I’m currently learning software programming
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any project related to computer
 - 📫 How to reach me oussama.jalleli@esprit.tn or my LinkedIn: www.linkedin.com/in/oussama-jalleli-b3bb65197
 
